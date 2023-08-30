@@ -15,7 +15,7 @@ public class Ejercicio2 {
             System.out.print("Seleccione una opción: ");
 
             int opcion = sc.nextInt();
-            sc.nextLine(); // Consumir la línea en blanco
+            sc.nextLine();
 
             switch (opcion) {
                 case 1:
